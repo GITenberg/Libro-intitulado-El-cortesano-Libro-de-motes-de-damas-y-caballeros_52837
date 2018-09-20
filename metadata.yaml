@@ -1,0 +1,55 @@
+_repo: Libro-intitulado-El-cortesano-Libro-de-motes-de-damas-y-caballeros_52837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milán, Luis
+    aliases:
+    - Milan, Luis
+    - Exarch, Lluís del Milà i
+    - Millán, Luis
+    - Eixarch, Lluis del Mila i
+    - Millan, Luis
+    - Eixarch, Lluís del Milà i
+    - De Milán, Luis
+    deathdate: 1559
+    gutenberg_agent_id: '47109'
+    url: http://www.gutenberg.org/2009/agents/47109
+  editors:
+  - agent_name: Fuensanta del Valle, Feliciano Ramírez de Arellano, marqués de la
+    aliases:
+    - Ramírez de Arellano, Feliciano, marqués de la Fuensanta del Valle
+    - Arellano, Feliciano Ramírez de, marqués de la Fuensanta del Valle
+    - Fuensanta del Valle, marqués de la
+    - Del Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta
+    - Valle, Feliciano Ramírez de Arellano, marqués de la Fuensanta del
+    - Fuensanta del Valle, Feliciano Ramirez de Arellano, marques de la
+    - De Arellano, Feliciano Ramírez, marqués de la Fuensanta del Valle
+    birthdate: 1826
+    deathdate: 1896
+    gutenberg_agent_id: '45525'
+    url: http://www.gutenberg.org/2009/agents/45525
+  - agent_name: Sancho Rayón, José León
+    aliases:
+    - Rayón, José León Sancho
+    - Sancho Rayon, Jose Leon
+    birthdate: 1830
+    deathdate: 1900
+    gutenberg_agent_id: '45529'
+    url: http://www.gutenberg.org/2009/agents/45529
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52837'
+  lccn: '38007636'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtesy -- Early works to 1800'
+- !lcsh 'Courts and courtiers -- Early works to 1800'
+- !lcc 'PQ'
+- GITenberg
+title: Libro intitulado El cortesano. Libro de motes de damas y caballeros
+url: http://www.gutenberg.org/ebooks/52837
